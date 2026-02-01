@@ -1,0 +1,8 @@
+{
+  "name": "Korea Space Explorer (대한민국 우주 탐험대)",
+  "description": "An interactive educational platform for future scientists to learn about South Korea's micro-satellite constellation and space technology.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
